@@ -1,3 +1,1 @@
-HEAD
-user1 update init
-branch-name
+user2 update init

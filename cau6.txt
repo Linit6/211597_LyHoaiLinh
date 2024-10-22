@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Lấy tên người dùng và ngày giờ hiện tại
+username=$(whoami)
+datetime=$(date)
+
+# Tạo file info.txt và ghi nội dung
+echo "User: $username" > info.txt
+echo "Date and Time: $datetime" >> info.txt

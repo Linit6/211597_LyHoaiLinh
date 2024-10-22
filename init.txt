@@ -1,4 +1,3 @@
-user1 update init
-init develop
+user2 update init
 
 
